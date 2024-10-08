@@ -137,8 +137,6 @@ addressMaker('Austin', 'Texas');
 
 ```
 
-### Object Literals Challenge
-
 ---
 
 ## For of Loop
