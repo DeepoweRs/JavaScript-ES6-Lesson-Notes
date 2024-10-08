@@ -1,7 +1,5 @@
 # JavaScript ES6 / Scrimba
 
----
-
 ## Template Literals
 
 Template literals, JavaScript'te verileri stringler ile birlikte daha kolay kullanmak için geliştirilmiş bir yöntemdir.
