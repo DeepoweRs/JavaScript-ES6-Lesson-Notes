@@ -1,3 +1,5 @@
+# JavaScript ES6 / Scrimba
+
 ---
 
 ## Template Literals
