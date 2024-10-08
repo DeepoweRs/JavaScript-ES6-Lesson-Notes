@@ -12,7 +12,7 @@ let str2 = "world";
 
 console.log(`${str1} ${str2}`);
 
-// Daha zor kullanım: console.log(str1 + " " + str2);
+// Daha zor kullanım= console.log(str1 + " " + str2);
 
 ```
 
